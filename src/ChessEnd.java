@@ -1,0 +1,4 @@
+
+public enum ChessEnd {
+	CHECK,WHITE_WINS,BLACK_WINS,STALEMATE
+}

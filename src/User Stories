@@ -1,0 +1,23 @@
+As a player, I want to know where pieces are on the board so that I can make a decision for my move.
+As a player, I want a graphical representation of the board so that I can easily see what is going on in the game.
+As a player, I want the pieces to be automatically set up at the beginning of the game so that I can start a game.
+As a player, I want to be able to move piece so that I can play with the game.
+As a player, I want to undo moves so that I can make mistakes. 
+As a player, I want to know if my move is legal so that the game works.
+As a player, I want pieces to be captured so that the game works.
+
+As a player, I want to end my turn so that my oponent can move.
+As a player, I want to know if my turn was legal so that I don’t cheat.
+As a player, I want to know when it’s my turn so that I can move.
+As a player, I want to know if the game is over so that I can move on with my life.
+As a player, I want to play with a friend on the same computer so that we can play when not connected to the internet.
+
+As an admin, I want to add accounts so that players can login.
+As a player, I want to be able to login so that my points are tracked.
+As anyone, I want to see player standings so that I know how good players are.
+As a player, I want to connect to a server so that I can play with friends over the internet.
+
+As a player, I want turns to be timed so that the game is more insteresting.
+As a player, I want to save the game so that I can resume it later.
+As a player, I want to play against an AI so that I can practice on my own.
+
