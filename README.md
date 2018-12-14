@@ -8,4 +8,7 @@ A chess program we team-coded in software design class.
 Implements the strategy pattern.
 ```
 <br>
-To execute, compile all and run ```ChessGUI.java``` under [**/src**](/src)
+To execute, compile all and run 
+```
+ChessGUI.java
+``` 
