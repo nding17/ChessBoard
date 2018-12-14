@@ -11,5 +11,5 @@ Implements the strategy pattern.
 To execute, compile all and run 
 
 ```
-ChessGUI.java
+ChessGUI.java under /src catelog
 ``` 
