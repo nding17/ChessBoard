@@ -9,6 +9,7 @@ Implements the strategy pattern.
 ```
 <br>
 To execute, compile all and run 
+
 ```
 ChessGUI.java
 ``` 
